@@ -18,7 +18,7 @@
 
  
 ## Demo Preview
-![search demo](./gif/search.png)
+![se demo](./gif/search.png)
 
 ## Github Repository
 https://github.com/macykcool/booksearch
